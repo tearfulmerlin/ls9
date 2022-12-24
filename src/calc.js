@@ -15,7 +15,7 @@ function calc(num1, num2, operation) {
             result = num1 / num2;
             break;
         case '**':
-            result = num1**num2;
+            result = Math.pow(num1,num2);
             break;
     }
 
