@@ -17,7 +17,7 @@ function calc(num1, num2, operation) {
         case '**':
             result = num1**num2;
             break;
-        case 'sqrt':
+        case 'sqroot':
             result = Math.sqrt(num1);
             break;
     }
