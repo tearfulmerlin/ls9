@@ -6,7 +6,7 @@
 // const showMessage = function() {}; // - expression
 // function showMessage(){}; // - declaration
 
-/******* JSON *******/
+/** ***** JSON ****** */
 // Purpose
 // Data represetation
 // used in APIs
@@ -45,8 +45,6 @@
 // userJohn.friends.push(userMike);
 // userMike.friends.push(userJohn);
 
-
-
 // console.log(userMike);
 // console.log(userJohn);
 
@@ -56,30 +54,21 @@
 // const parsed = JSON.parse(stringified);
 // console.log(parsed);
 
-
 // parse and stringify
 
-
-
-
-
-
-/******* Node & NPM & linter *******/
+/** ***** Node & NPM & linter ****** */
 // package.json
 // init
 // install
 // node_modules
 
-
-
-
-/******* GIT *******/
+/** ***** GIT ****** */
 // control version system
 /* repositiory */
 // branches
 // commits
 
-console.log(calc(2,2 ,'+'));
+// console.log(calc(2,2 ,'+'));
 
 // clone url
 // init
