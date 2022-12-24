@@ -1,0 +1,17 @@
+{
+    "name": "Mike",
+    "age": 28,
+    "isAdmin": false,
+    "tel": null,
+    "friends": [
+        {
+            "name": "John"
+        },
+        {
+            "name": "Pete"
+        },
+        {
+            "name": "Sara"
+        }
+    ]
+}
