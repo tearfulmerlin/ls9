@@ -29,3 +29,7 @@ function calc(num1, num2, operation) {
 }
 
 calc(2, 2, '+');
+
+const number = 5;
+
+console.log(number);
