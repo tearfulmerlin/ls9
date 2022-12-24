@@ -3,19 +3,21 @@ function calc(num1, num2, operation) {
 
     switch(operation) {
         case '+':
-            result = num1 + num2;
+            result = num1+ num2;
             break;
         case '-':
-            result = num1 - num2;
+            result = num1 -num2;
             break;
         case '*':
-            result = num1 * num2;
-            break;
+            result = num1 * num2
+            break
         case '/':
-            result = num1 / num2;
+
+            result=num1/num2;
             break;
         case '**':
-            result = num1**num2;
+            result = 
+                num1**num2;
             break;
         case 'sqroot':
             result = Math.sqrt(num1);
