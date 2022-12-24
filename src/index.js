@@ -79,6 +79,8 @@
 // branches
 // commits
 
+console.log(calc(2,2 ,'+'));
+
 // clone url
 // init
 // status
